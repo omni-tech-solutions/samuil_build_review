@@ -1,6 +1,6 @@
 # Samuil Build ltd Construction & Transport Website 
 
-This repository hosts the official website for Samuil Build ltd, a company specializing in construction and transportation services. This platform serves as a key source of information about the company, its services, projects, and contact details.
+Informative Website for Samuil Build ltd, a company specializing in construction and transportation services. This platform serves as a key source of information about the company, its services, projects, and contact details.
 
 
 
